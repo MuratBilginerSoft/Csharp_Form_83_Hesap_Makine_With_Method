@@ -1,0 +1,21 @@
+C:\Users\mrt_b\Desktop\Blog\Dersler\Metodlar\Metodlar\bin\Debug\Metodlar.exe
+C:\Users\mrt_b\Desktop\Blog\Dersler\Metodlar\Metodlar\bin\Debug\Metodlar.pdb
+C:\Users\mrt_b\Desktop\Blog\Dersler\Metodlar\Metodlar\obj\x86\Debug\Metodlar.Form1.resources
+C:\Users\mrt_b\Desktop\Blog\Dersler\Metodlar\Metodlar\obj\x86\Debug\Metodlar.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Blog\Dersler\Metodlar\Metodlar\obj\x86\Debug\Metodlar.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\Blog\Dersler\Metodlar\Metodlar\obj\x86\Debug\Metodlar.exe
+C:\Users\mrt_b\Desktop\Blog\Dersler\Metodlar\Metodlar\obj\x86\Debug\Metodlar.pdb
+C:\Users\mrt_b\Desktop\Blog\3 C# Konu\Dersler\Metodlar\Metodlar\obj\x86\Debug\Metodlar.exe
+C:\Users\mrt_b\Desktop\Blog\3 C# Konu\Dersler\Metodlar\Metodlar\obj\x86\Debug\Metodlar.pdb
+C:\Users\mrt_b\Desktop\Blog\3 C# Konu\Dersler\Metodlar\Metodlar\bin\Debug\Metodlar.exe
+C:\Users\mrt_b\Desktop\Blog\3 C# Konu\Dersler\Metodlar\Metodlar\bin\Debug\Metodlar.pdb
+C:\Users\mrt_b\Desktop\Blog\3 C# Konu\Dersler\Metodlar\Metodlar\obj\x86\Debug\Metodlar.Form1.resources
+C:\Users\mrt_b\Desktop\Blog\3 C# Konu\Dersler\Metodlar\Metodlar\obj\x86\Debug\Metodlar.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Blog\3 C# Konu\Dersler\Metodlar\Metodlar\obj\x86\Debug\Metodlar.csproj.GenerateResource.Cache
+E:\04 - Yazılım\04 - Form Projeleri\75 Metod İle Hesap Makinesi\Metodlar\obj\x86\Debug\Metodlar.exe
+E:\04 - Yazılım\04 - Form Projeleri\75 Metod İle Hesap Makinesi\Metodlar\obj\x86\Debug\Metodlar.pdb
+E:\04 - Yazılım\04 - Form Projeleri\75 Metod İle Hesap Makinesi\Metodlar\bin\Debug\Metodlar.exe
+E:\04 - Yazılım\04 - Form Projeleri\75 Metod İle Hesap Makinesi\Metodlar\bin\Debug\Metodlar.pdb
+E:\04 - Yazılım\04 - Form Projeleri\75 Metod İle Hesap Makinesi\Metodlar\obj\x86\Debug\Metodlar.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\75 Metod İle Hesap Makinesi\Metodlar\obj\x86\Debug\Metodlar.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\75 Metod İle Hesap Makinesi\Metodlar\obj\x86\Debug\Metodlar.csproj.GenerateResource.Cache
